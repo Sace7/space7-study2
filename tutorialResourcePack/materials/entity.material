@@ -1,0 +1,9 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "custom_entity:entity_alphatest": {
+      "+defines": [ "USE_OVERLAY" ],
+      "msaaSupport": "Both"
+    }
+  }
+}

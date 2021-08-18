@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "modules": [
+    {
+      "description": "DragonBall @space7",
+      "type": "data",
+      "uuid": "597cf827-b2f1-4d69-977a-61dc5cc0f7a8",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "header": {
+    "description": "DragonBall @space7",
+    "name": "DragonBall",
+    "uuid": "c880cebf-d951-412a-a305-ef6ddb80ca05",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  }
+}

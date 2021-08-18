@@ -1,0 +1,64 @@
+{
+  "dy_load_list":[
+],
+  "music.dragon1": {
+    "min_distance": 0.0,
+    "max_distance": 10.0,
+    "sounds": [
+      {
+        "name": "sounds/customSound/dragon1",
+        "pitch": 1,
+        "volume": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.dragon2": {
+    "min_distance": 0.0,
+    "max_distance": 10.0,
+    "sounds": [
+      {
+        "name": "sounds/customSound/dragon2",
+        "pitch": 1,
+        "volume": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.dragon3": {
+    "min_distance": 0.0,
+    "max_distance": 10.0,
+    "sounds": [
+      {
+        "name": "sounds/customSound/dragon3",
+        "pitch": 1,
+        "volume": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.dragon4": {
+    "min_distance": 0.0,
+    "max_distance": 10.0,
+    "sounds": [
+      {
+        "name": "sounds/customSound/dragon4",
+        "pitch": 1,
+        "volume": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.dragon5": {
+    "min_distance": 0.0,
+    "max_distance": 10.0,
+    "sounds": [
+      {
+        "name": "sounds/customSound/dragon5",
+        "pitch": 1,
+        "volume": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}

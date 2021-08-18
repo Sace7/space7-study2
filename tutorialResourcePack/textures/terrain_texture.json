@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+	"customblocks:stand_block":{
+      "textures": "textures/blocks/stand_block"
+	},
+	"customblocks:stand_block2":{
+      "textures": "textures/blocks/stand_block2"
+	}
+  }
+}

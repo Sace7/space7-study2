@@ -1,0 +1,74 @@
+{
+	"dragonball_sun" : {
+        "skeleton" : "skeleton/dragonball_skeleton.json",
+		"mesh" : "mesh/dragonball_mesh.json",
+        "animation":{
+            "walk":"animation/newslash_animation_walk.json",
+			"stand":"animation/newslash_animation_zl.json",
+			"attack1":"animation/dragonball_animation_a1.json",
+			"attack2":"animation/dragonball_animation_a2.json",
+			"attack3":"animation/dragonball_animation_a3.json",
+			"attack5":"animation/dragonball_animation_a4.json",
+			"change":"animation/dragonball_animation_change.json",
+			"fly1":"animation/dragonball_animation_fly1.json",
+			"fly2":"animation/dragonball_animation_fly2.json",
+			"fly3":"animation/dragonball_animation_fly3.json",
+			"end":"animation/newslash_animation_end.json",
+			"sa":"animation/newslash_animation_saay.json"
+        },
+		"arm_model" : "fpdragonball_sun"
+    },	
+	"fpdragonball_sun": {
+        "skeleton" : "skeleton/fpdragonball_skeleton.json",
+		"mesh" : "mesh/fpdragonball_mesh.json",
+		"animation":{
+			"attack1":"animation/dragonballfp_animation_a1.json",
+			"attack2":"animation/dragonballfp_animation_a2.json",
+			"attack3":"animation/dragonballfp_animation_a3.json",
+			"attack5":"animation/dragonballfp_animation_a4.json",
+			"change":"animation/dragonballfp_animation_change.json",
+			"end":"animation/newfp_animation_end.json",
+			"walk":"animation/newfp_animation_walk.json",
+			"stand":"animation/newfp_animation_zl.json",
+			"sa":"animation/newfp_animation_saay.json"
+        }	
+    },
+	"stand" : {
+        "skeleton" : "skeleton/stand_skeleton.json",
+		"mesh" : "mesh/stand_mesh.json",
+		"animation":{
+        }
+    },
+	"driver": {
+        "skeleton" : "skeleton/kushidriver_skeleton.json",
+		"mesh" : "mesh/kushidriver_mesh.json",
+		"animation":{
+        }
+    },
+	"head" : {
+        "skeleton" : "skeleton/head_skeleton.json",
+		"mesh" : "mesh/head_mesh.json",
+		"animation":{
+        }
+    },
+	"head2" : {
+        "skeleton" : "skeleton/head_skeleton.json",
+		"mesh" : "mesh/head2_mesh.json",
+		"animation":{
+        }
+    },
+	"head3" : {
+        "skeleton" : "skeleton/head3_skeleton.json",
+		"mesh" : "mesh/head3_mesh.json",
+		"animation":{
+        }
+    },
+	"dongyingdriver1": {
+        "skeleton" : "skeleton/driver1_skeleton.json",
+		"mesh" : "mesh/driver1_mesh.json"
+    },
+	"jian": {
+        "skeleton" : "skeleton/jian_skeleton.json",
+		"mesh" : "mesh/jian_mesh.json"
+    }
+}

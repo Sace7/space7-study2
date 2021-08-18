@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "customblade:customblade_dios"
+		},
+
+		"tags": ["crafting_table"],
+		"pattern": [
+			"AAA",
+			"APA",
+			"AAA"
+		],
+		"key": {
+			"P": {
+				"item": "minecraft:emerald"
+			},
+			"A": {
+				"item": "minecraft:netherstar"
+			}
+		},
+		"result": {
+			"item": "space7:zangai"
+		}
+	}
+}
